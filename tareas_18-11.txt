@@ -1,0 +1,16 @@
+(DONE)- quitar rebaje de los rodillos
+-(DONE) pasar barra de sincronia a Jose
+(DONE)- meter agujeros pasantes y pines en la gris porque 
+las roscas estan en el modulo lineal
+(DONE)- taladros en a zona d la cadena para bridas de calbles
+(DONE)- quitar tornillos de los calibradores y permitir que giren las tuercas (alejar)
+(DONE)-ahorrar chapitas verdes para las guias lineales, hacer mas ancha la bandeja
+(DONE)- bajar bandeja de ordenador metiendo hemmings, meter colisos en Z
+(DONE)- hacer una chapa completa para todo (chiller y caja electrica)
+(DONE)- quitar escuadras
+(DONE) quitar chaflanes de mecanizados
+(DONE) pedir la estructura de perfileria con las ruedas, acotar la altura de 115 mm
+
+- meter insertos a la MJF guias
+- especificar tornillo de cabeza chata para los aterales que pasan por debajo de rampa
+- probar pieza MJF con tool PRS
